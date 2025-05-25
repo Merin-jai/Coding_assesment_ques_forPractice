@@ -1,0 +1,29 @@
+Make three numbers equal
+
+Make Three Numbers Equal
+Problem Statement:
+
+You are given three integers P, Q, and R. You can perform the following operation any number of times:
+
+Select any two numbers and increase both by 1.
+
+Decrease the third number by 1.
+
+Your task is to determine the minimum number of operations required to make all three numbers equal.
+
+Example:
+
+Input:
+
+
+4   # Number of test cases
+1 2 3
+4 4 4
+3 2 6
+1 1 7
+Output:
+
+-1
+0
+-1
+3
